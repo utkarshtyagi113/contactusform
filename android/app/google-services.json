@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673411798007",
+    "project_id": "contact2firebase",
+    "storage_bucket": "contact2firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673411798007:android:b9282d3968398aa1a514f2",
+        "android_client_info": {
+          "package_name": "com.contact2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673411798007-2lsmt0pqr9k7b6g57vpsohmlcrt8evsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFT8vPhM1or5My9OlbWzXsZsa-5Qqtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673411798007-2lsmt0pqr9k7b6g57vpsohmlcrt8evsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
